@@ -15,11 +15,11 @@ GazeHome은 시선 추적 기술을 활용하여 거동이 불편한 사용자�
 
 ## 시스템 구조
 Edge Device (시선 추적)
-↓
+->
 Communication Gateway (통신 관리)
-↓
+->
 AI Services (의도 분석)
-↓
+->
 IoT 기기 제어
 
 ## 레포지토리
