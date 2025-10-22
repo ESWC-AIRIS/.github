@@ -22,7 +22,8 @@ AI Services (의도 분석)
 ->
 IoT 기기 제어
 
-<img width="4800" height="4590" alt="image" src="https://github.com/user-attachments/assets/5131b1db-b98c-4737-9a2d-1408c343826a" />
+<img width="4800" height="4590" alt="image" src="https://github.com/user-attachments/assets/4e6dac27-0f1c-4420-a4b0-a48a4cd44157" />
+
 
 
 ## 레포지토리
